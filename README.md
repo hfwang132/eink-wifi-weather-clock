@@ -1,6 +1,6 @@
-# eink_wifi_weather_clock
+# eink-wifi-weather-clock
 
-E-ink display wifi weather clock.
+An E-ink display WIFI weather clock.
 
 - AHT20: Temperature and humidity sensor
 - BMP280: Temperature and pressure sensor
